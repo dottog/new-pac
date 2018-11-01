@@ -1,6 +1,7 @@
 var proxy = "PROXY xi.dnsfree.space:80;";
 
 var domains = {
+  "bt.byr.cn"": 1,
   "huaglad.com": 1,
   "slideshare.net": 1,
   "tumblr.com": 1,
